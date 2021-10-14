@@ -1,0 +1,46 @@
+.flex-all-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.btn {
+  padding: 4px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.text-center {
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bolder;
+  font-size: larger;
+}
+
+.my1 {
+  margin: 20px 0;
+}
+
+.my2 {
+  margin: 15px 0;
+}
+
+.my3 {
+  margin: 15px;
+}
+
+.text-center2 {
+  text-align: center;
+}
+
+.text-center2:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  color: red;
+}
+
+.rule {
+  width: 80vw;
+  margin: auto;
+}

@@ -1,0 +1,14 @@
+@media screen and (max-width: 1000px) {
+  nav {
+    height: 53vh;
+    flex-direction: column;
+  }
+  header {
+    height: 53vh;
+  }
+  .logo,
+  nav ul {
+    justify-content: center;
+    margin: 12px 0;
+  }
+}
